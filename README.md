@@ -8,3 +8,6 @@ Introdução ao HTML/CSS com JS
 
 #### Aula - 02
 Introdução ao JavaScript - Variáveis, Tipos, Arrays, Operadores, Objetos
+
+#### Aula - 03
+Condicionais - If/Else, Switch/Case 
