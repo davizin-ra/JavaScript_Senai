@@ -5,3 +5,6 @@ Material produzido nas aulas de JavaScript no Senai SP - São Caetano do Sul
 
 #### Aula - 01
 Introdução ao HTML/CSS com JS
+
+#### Aula - 02
+Introdução ao JavaScript - Variáveis, Tipos, Arrays, Operadores, Objetos
