@@ -3,11 +3,11 @@ Material produzido nas aulas de JavaScript no Senai SP - São Caetano do Sul
 
 ## Aulas
 
-#### Aula - 01
-Introdução ao HTML/CSS com JS
+#### [Aula - 01](Aula01)
+Introdução ao HTML/CSS com JS - [link do site](https://davizin-ra.github.io/JavaScript_Senai/Aula01/)
 
-#### Aula - 02
-Introdução ao JavaScript - Variáveis, Tipos, Arrays, Operadores, Objetos
+#### [Aula - 02](Aula02)
+Introdução ao JavaScript com Variáveis, Tipos, Arrays, Operadores, Objetos - [link do site](https://davizin-ra.github.io/JavaScript_Senai/Aula02/)
 
-#### Aula - 03
-Condicionais - If/Else, Switch/Case 
+#### [Aula - 03](Aula03)
+Condicionais If/Else, Switch/Case - [link do site](https://davizin-ra.github.io/JavaScript_Senai/Aula03/)
