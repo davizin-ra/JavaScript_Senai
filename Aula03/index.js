@@ -82,7 +82,6 @@ if (dispositivo == "celular" || dispositivo == "tablet"){
 }
 */
 
-/*
 let tema = prompt("Digite um tema (claro / escuro / azul )")
 
 switch (tema){
@@ -101,4 +100,3 @@ switch (tema){
         console.log("Tema inválido")
         break
 }
-*/
