@@ -16,5 +16,5 @@ Introdução ao JavaScript com Variáveis, Tipos, Arrays, Operadores, Objetos - 
 #### [Aula - 03](Aula03)
 Condicionais If/Else, Switch/Case - [link do site](https://davizin-ra.github.io/JavaScript_Senai/Aula03/)
 
-#### Aula04
+#### Aula - 04
 Git / Github
