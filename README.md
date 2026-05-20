@@ -18,3 +18,6 @@ Condicionais If/Else, Switch/Case - [link do site](https://davizin-ra.github.io/
 
 #### [Aula - 04](Aula04)
 Git / Github e exercício teste - [link do site](https://davizin-ra.github.io/JavaScript_Senai/Aula04/)
+
+#### [Aula - 05](Aula05)
+Estruturas de repetição For, Foreach, While - [link do site](https://davizin-ra.github.io/JavaScript_Senai/Aula05/)
