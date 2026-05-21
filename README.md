@@ -21,3 +21,6 @@ Git / Github e exercício teste - [link do site](https://davizin-ra.github.io/Ja
 
 #### [Aula - 05](Aula05)
 Estruturas de repetição For, Foreach, While - [link do site](https://davizin-ra.github.io/JavaScript_Senai/Aula05/)
+
+#### [Aula - 06](Aula06)
+Funções nativas - [link do site](https://davizin-ra.github.io/JavaScript_Senai/Aula06/)
