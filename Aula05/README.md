@@ -18,7 +18,7 @@ for (let i = 1; i <= 5; i++) {
 
 Executa um bloco de código enquanto uma condição for verdadeira
 
-```jsa
+```js
 let contador = 1;
 
 while (contador <= 3) {
