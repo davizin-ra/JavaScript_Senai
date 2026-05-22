@@ -74,8 +74,7 @@ campo.addEventListener("keyup", () => {
 
 ### Evento do mouse
 
-#### Mouseover
-Quando o mouse passa por cima
+#### Mouseover - Quando o mouse passa por cima
 
 ```js
 const elemento = document.getElementById("troca-cor") // <h3/>
