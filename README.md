@@ -24,3 +24,6 @@ Estruturas de repetição For, Foreach, While - [link do site](https://davizin-r
 
 #### [Aula - 06](Aula06)
 Funções nativas - [link do site](https://davizin-ra.github.io/JavaScript_Senai/Aula06/)
+
+#### [Aula - 07](Aula07)
+Manipulação de DOM Seleção de elementos, Eventos - [link do site](https://davizin-ra.github.io/JavaScript_Senai/Aula07/)
