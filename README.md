@@ -29,4 +29,4 @@ Funções nativas - [link do site](https://davizin-ra.github.io/JavaScript_Senai
 Manipulação de DOM Seleção de elementos, Eventos - [link do site](https://davizin-ra.github.io/JavaScript_Senai/Aula07/)
 
 #### [Aula - 08](Aula08)
-Tema claro / escuro com CSS e JS - [link do site](https://davizin-ra.github.io/JavaScript_Senai/Aula08/)
+Exercícios manipulação DOM - [link do site](https://davizin-ra.github.io/JavaScript_Senai/Aula08/)
