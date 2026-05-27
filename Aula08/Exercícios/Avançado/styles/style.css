@@ -1,0 +1,68 @@
+body {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  margin: 0;
+  height: 100vh;
+  background-color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#titulo {
+  font-size: 160%;
+}
+
+#caixa {
+  box-shadow: 2px 2px 7px rgb(122, 122, 122);
+  background-color: rgba(0, 0, 0, 0%);
+  padding: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+  border-radius: 20px;
+}
+
+#inputTarefa {
+  padding: 7px;
+  border: none;
+  border-bottom: solid rgb(0, 0, 0) 1px;
+}
+
+#inputTarefa:focus {
+  outline: none;
+}
+
+#botaoAdd {
+  transition: all 0.3s;
+  margin-left: 20px;
+  background-color: rgb(0, 0, 0);
+  border: 2px solid rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
+  font-weight: bolder;
+  border-radius: 5px;
+  padding: 8px;
+}
+
+#botaoAdd:hover {
+  transition: all 0.3s;
+  background-color: white;
+  cursor: pointer;
+  color: black;
+}
+
+.itemLista {
+  text-decoration: none;
+  box-shadow: 1px 1px 4px rgb(180, 180, 180);
+  background-color: rgb(233, 233, 233);
+  padding: 10px;
+  border-radius: 10px;
+  list-style: none;
+}
+
+#listaTarefas{
+  padding-left: 0px;
+  min-height: 200px;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+
+}
