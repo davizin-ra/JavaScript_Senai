@@ -30,3 +30,6 @@ Manipulação de DOM Seleção de elementos, Eventos - [link do site](https://da
 
 #### [Aula - 08](Aula08)
 Exercícios manipulação DOM - [link do site](https://davizin-ra.github.io/JavaScript_Senai/Aula08/)
+
+#### Aula - 09
+Conclusão exercícios da **[Aula - 08](Aula08)** - [link do site](https://davizin-ra.github.io/JavaScript_Senai/Aula08/)
