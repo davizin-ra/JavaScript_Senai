@@ -35,4 +35,4 @@ Exercícios manipulação DOM - [link do site](https://davizin-ra.github.io/Java
 Armazenamento Local Storage - [link do site](https://davizin-ra.github.io/JavaScript_Senai/Aula09/)
 
 #### [Aula - 10](Aula10)
-Projeto lanchonete - [link do site](https://davizin-ra.github.io/JavaScript_Senai/Aula10/)
+Projeto lanchonete - [link do site](https://davizin-ra.github.io/JavaScript_Senai/Aula10%20-%20Projeto%20Lanchonete/)
