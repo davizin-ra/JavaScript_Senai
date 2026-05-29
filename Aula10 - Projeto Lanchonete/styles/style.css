@@ -1,0 +1,104 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  padding: 20px;
+  text-align: center;
+}
+
+h2 {
+  margin-bottom: 20px;
+}
+
+input {
+  padding: 10px;
+  width: 200px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+button {
+  padding: 10px 15px;
+  margin-left: 5px;
+  border: solid 2px black;
+  border-radius: 5px;
+  background-color: #000000;
+  color: white;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+button:hover {
+  background-color: #ffffff;
+  color: black;
+}
+
+ul {
+  list-style: none;
+  margin-top: 20px;
+}
+
+li {
+  background-color: white;
+  margin: 10px auto;
+  padding: 10px;
+  width: 350px;
+  border-radius: 5px;
+
+  box-shadow: 1px 1px 5px rgb(117, 117, 117);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+li:hover {
+  scale: 105%;
+}
+
+li img {
+  width: 40px;
+  padding: 5px 10px;
+  text-decoration: none;
+  transition: all 0.2s;
+}
+
+img:hover {
+  scale: 110%;
+}
+
+#pedidoAtual {
+  margin-bottom: 20px;
+  font-weight: bold;
+}
+
+#lista {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  max-height: 200px;
+  display: flexbox;
+  overflow-y: auto;
+  height: 200px;
+  border: black solid 2px;
+  width: 400px;
+  margin: auto;
+  margin-top: 10px;
+  margin-bottom: 40px;
+  border-radius: 30px;
+  scrollbar-width: none;
+}
+
+h3{
+    width: 400px;
+    margin: auto;
+    text-align: left;
+    margin-top: 30px;
+    border-left: 4px solid black;
+    padding-left: 5px;
+}
