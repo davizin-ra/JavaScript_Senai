@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aula11</title>
+    <link rel="stylesheet" href="styles/style.css">
+    <script type="module" defer src="scripts/script.js"></script>
+</head>
+<body>
+    <h1>Catálogo de produtos</h1>
+    <div class="filtros">
+        <input type="text" id="campoBusca" placeholder="Digite para buscar um produto">
+        <select id="ordenacao">
+            <option value="nomeAz">Nome (A-Z)</option>
+            <option value="nomeZa">Nome (Z-A)</option>
+            <option value="precoMenor">Menor preço</option>
+            <option value="precoMaior">Maior preço</option>
+        </select>
+    </div>
+    <div id="listaProdutos" class="listaProdutos"></div>
+</body>
+</html>
