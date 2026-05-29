@@ -34,5 +34,8 @@ Exercícios manipulação DOM - [link do site](https://davizin-ra.github.io/Java
 #### [Aula - 09](Aula09)
 Armazenamento Local Storage - [link do site](https://davizin-ra.github.io/JavaScript_Senai/Aula09/)
 
-#### [Aula - 10](Aula10)
+#### [Aula - 10](https://github.com/davizin-ra/JavaScript_Senai/tree/main/Aula10%20-%20Projeto%20Lanchonete)
 Projeto lanchonete - [link do site](https://davizin-ra.github.io/JavaScript_Senai/Aula10%20-%20Projeto%20Lanchonete/)
+
+#### [Aula - 11](https://github.com/davizin-ra/JavaScript_Senai/tree/main/Aula11%20-%20Projeto%20Filtro)
+Projeto filtro de loja - [link do site](https://davizin-ra.github.io/JavaScript_Senai/Aula11%20-%20Projeto%20Filtro/)
