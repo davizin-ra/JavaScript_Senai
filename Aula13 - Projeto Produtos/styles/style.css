@@ -1,0 +1,94 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border: none;
+  font-family: sans-serif;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  align-items: center;
+  background-color: #f0f0f0;
+}
+
+.container {
+  background-color: #fff;
+  box-shadow: 1px 3px 8px rgb(0, 0, 0, 0.3);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 400px;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 25px;
+  margin-top: 10px;
+  margin-bottom: 30px;
+  font-weight: bolder;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  border: solid 1px #cccccc;
+}
+
+button {
+  width: 100%;
+  padding: 10px;
+  background-color: #790000;
+  color: white;
+  border-radius: 5px;
+  transition: all 0.3s;
+  box-shadow: 2px 3px 3px rgb(0, 0, 0, 0.3);
+}
+
+button:hover {
+  cursor: pointer;
+  background-color: #550000;
+}
+
+
+label {
+  font-size: 14px;
+  margin-bottom: 5px;
+  font-weight: 600;
+}
+
+#divItem {
+  margin-top: 20px;
+  width: 100%;
+}
+
+.card {
+  background-color: #ffffff;
+  border-radius: 12px;
+  padding: 16px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  transition: 0.2s;
+}
+
+.card:hover {
+  transform: translateY(-4px);
+}
+.card h2 {
+  font-size: 18px;
+  color: #222222;
+}
+
+.card p {
+  color: #4b4b4b;
+}
+.card .preco {
+  color: #08c046;
+  font-weight: bold;
+  font-size: 15px;
+}
