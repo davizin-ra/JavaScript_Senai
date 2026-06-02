@@ -41,4 +41,10 @@ Projeto lanchonete - [link do site](https://davizin-ra.github.io/JavaScript_Sena
 Projeto filtro de loja - [link do site](https://davizin-ra.github.io/JavaScript_Senai/Aula11%20-%20Projeto%20Filtro/)
 
 #### [Aula - 12](https://github.com/davizin-ra/JavaScript_Senai/tree/main/Aula12%20-%20Busca%20CEP)
-Busca por API de CEP - [link do site](https://davizin-ra.github.io/JavaScript_Senai/Aula12%20-%20Busca%20CEP/Busca%20com%20API/index.html)
+Busca por API de CEP - [link do site](https://davizin-ra.github.io/JavaScript_Senai/Aula12%20-%20Busca%20CEP/Busca%20com%20API/index.html)Aula13 - Projeto Produtos
+
+#### [Aula - 13](https://github.com/davizin-ra/JavaScript_Senai/tree/main/Aula13%20-%20Projeto%20Produtos)
+Projeto de busta de produtos por código - [link do site](https://davizin-ra.github.io/JavaScript_Senai/Aula13%20-%20Projeto%20Produtos)
+
+#### Aula - 14
+Desenvolvimento do [SenaiFlix](https://github.com/davizin-ra/SenaiFlix)
